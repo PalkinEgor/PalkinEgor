@@ -1,6 +1,6 @@
 # Hi, I'm Palkin Egor 👋
 
-Student at NSU (Computer Science & System Design), focused on Machine Learning with a strong interest in NLP.  
+#### Student at NSU (Computer Science & System Design), focused on Machine Learning with a strong interest in NLP.  
 
 ## 🔗 Contacts
 - Telegram: https://t.me/egorpalkin
