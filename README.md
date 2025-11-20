@@ -4,7 +4,7 @@ Student at NSU (Computer Science & System Design), focused on Machine Learning w
 
 ## 🔗 Contacts
 - Telegram: https://t.me/egorpalkin
-- palkin122004@gmail.com
+- Email: palkin122004@gmail.com
 
 ## 🚀 Projects
 Here are some of my featured repositories:
