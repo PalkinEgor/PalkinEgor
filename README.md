@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Palkin Egor 👋
 
-<!--
-**PalkinEgor/PalkinEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at NSU (Computer Science & System Design), focused on Machine Learning with a strong interest in NLP.  
 
-Here are some ideas to get you started:
+## 🔗 Contacts
+- Telegram: https://t.me/egorpalkin
+- palkin122004@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my featured repositories:
+
+- [LLM from scratch](https://github.com/PalkinEgor/LLM-from-scratch)
+- [Text Review Classification](https://github.com/PalkinEgor/nlp_task_sirius_tinkoff)
+- [sft_Qwen2.5-1.5B_yandex_student_camp](https://github.com/PalkinEgor/sft_Qwen2.5-1.5B_yandex_student_camp)
